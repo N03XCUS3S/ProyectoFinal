@@ -4,7 +4,7 @@ Proyecto
 ---
 ## Frotnend
 
-/frontend  
+/frontend   
 │  
 ├── public/  
 │ └── assets/  
@@ -15,13 +15,13 @@ Proyecto
 │     └── icons/  
 │  
 ├── src/  
-│ ├── components/ # Componentes reutilizables UI (botones, menús, diálogos)  
-│ ├── scenes/ # Vistas principales 
+│ ├── components/ # Componentes reutilizables UI (botones, menús, diálogos)   
+│ ├── scenes/ # Vistas principales  
 │ ├── modules/ 
-│ ├── services/ # Comunicación con backend 
-│ ├── styles/
-│ ├── js/
-│ ├── utils/
+│ ├── services/ # Comunicación con backend  
+│ ├── styles/  
+│ ├── js/  
+│ ├── utils/  
 │ ├── index.html  
 │ ├── index.js (o .tsx)  
 │ └── index.css  
@@ -33,11 +33,11 @@ Proyecto
 │  
 ├── app/  
 │ ├── models/ # Modelos de base de datos (ORM)  
-│ ├── services/ # Lógica de negocio 
-│ ├── repository/ 
-│ ├── db/  
-│ └── main.py (o index.js)  
-│  
-├── tests/ 
-├── requirements.txt
+│ ├── services/ # Lógica de negocio  
+│ ├── repository/  
+│ ├── db/   
+│ └── main.py (o index.js)   
+│   
+├── tests/  
+├── requirements.txt  
 └── README.md  
